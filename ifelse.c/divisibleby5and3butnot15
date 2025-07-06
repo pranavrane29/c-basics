@@ -1,0 +1,24 @@
+#include<stdio.h>
+int main(){
+    int b;
+    printf("Enter the number - ");
+    scanf("%d",&b);
+
+    if (n%5==0 || n%3==0)
+    {
+       if (n%15!=0)
+       {
+       printf("The number is divisible by 5 and 3 but not 15");
+       }
+       else{
+        printf("THE NUMBER IS DIVISBLE BY 15");
+        }
+
+    }
+   else{printf("The number is divisible by 5 and 3 but not 15");}
+    
+  
+    
+    return 0;
+
+}
