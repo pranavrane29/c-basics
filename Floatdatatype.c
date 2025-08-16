@@ -1,0 +1,12 @@
+#include<stdio.h>
+int main(){
+    float x=5;
+    float y=2;
+    float z=5/2;
+    printf("%f",z); 
+
+    return 0;
+}
+
+// FLOAT DATA TYPE IS USED TO GET ANSWERS IN DECIMALS OR IN REAL VALUE . int CAN'T BE USED AS IT LITERALLY DESCRIBES AS A INTEGER 
+//SO COMPUTER THINKS THAT THE INPUTS ARE INTEGERS AND THE ANSWER WILL ALSO BE AN INTEGER . 
